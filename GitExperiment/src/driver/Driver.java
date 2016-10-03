@@ -16,6 +16,8 @@ public class Driver {
 		Test t = new Test();
 		System.out.println(t.myTest(1));
 		System.out.println(t.myTest(2));
+		System.out.println(t.myTest(3));
+		System.out.println(t.myTest(4));
 	}
 
 }
